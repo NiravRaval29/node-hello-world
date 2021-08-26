@@ -1,5 +1,8 @@
 {
   "name": "npx hellow-world",
   "version": "1.0.0",
-  "bin": "./index.js" 
+  "bin": {
+  "node-hello-world" : "./index.js"
+}
+  
 }
