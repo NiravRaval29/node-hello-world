@@ -1,8 +1,13 @@
 {
-  "name": "npx hellow-world",
+  "name": "node-hello-world",
   "version": "1.0.0",
+  "keywords": [
+    "npx",
+    "node-hello-world"
+  ],
+  "main": "./index",
   "bin": {
-  "node-hello-world" : "./index.js"
-}
+    "node-hello-world": "./index.js",
+  },
   
 }
